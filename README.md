@@ -53,7 +53,7 @@ If you get an error, you should install Python: https://www.python.org/downloads
 
 Otherwise, you are ready to use `venv`. 
 
-Virtual enviroments or (venvs) keeps project dependencies i.e., pakcages installed by `pip install` separated from the system Python and other venvs.
+Virtual enviroments or (venvs) keeps project dependencies i.e., packages installed by `pip install` separated from the system Python and other venvs.
 
 To create a new venv, you can run the following command in your terminal:
 
